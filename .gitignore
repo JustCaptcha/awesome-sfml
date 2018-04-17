@@ -1,0 +1,15 @@
+# Build and package folders
+###################
+build
+dist
+packages
+typings
+.tmp
+
+# System folders
+###################
+.DS_Store
+
+# Node
+###################
+node_modules
