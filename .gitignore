@@ -13,3 +13,6 @@ typings
 # Node
 ###################
 node_modules
+
+# Others
+/temp
