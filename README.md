@@ -6,62 +6,30 @@
 
 Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness), and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
-## Contents
+### Contributing
 
-- [Applications written with SFML](#applications-written-with-sfml)
-  - [Games](#games)
-- [Engines](#engines)
-- [Components & Libraries](#components-libraries)
-- [Bindings](#bindings)
+Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTION.md) first.
+
+### Contents
+
+- [Awesome SFML](https://github.com/JustCaptcha/awesome-sfml)
+  - [Engines](#engines)
+  - [Components & Libraries](#components-libraries)
+  - [Bindings](#bindings)
+- [Utilities](#utilities)
+- [Tools](#tools)
 - [Resources](#resources)
+  - [Websites](#websites)
   - [Books](#books)
 - [Tutorials](#tutorials)
   - [Video](#video)
   - [Text](#text)
-
-## Applications written with SFML
-
-### Games
-
-- [Cendric](https://github.com/tizian/Cendric2) - Cendric is part top-down RPG and part puzzle platformer.
-- [Remnants of Naezith](http://naezith.com/) - Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook precision platformer. 
-- [This Grand Life](http://pokingwatergames.com/) - This Grand Life is a personal finance simulator where you create a character, manage their money and help them achieve their life goals.
-- [The Man in the Cape: Special Edition](http://www.longdivisiondev.com/) -
-The Man in the Cape is captured and left for dead in Mr. Granderson’s superhero elimination dungeon.
-- [Zeran's Folly](http://zeransfolly.com/) - Story-driven action-adventure with fluid melee combat, four unique playable characters, and a twisted sense of humor.
-- [CUIT](http://www.cir-cuit.com/) - In CUIT, it is only you and your mind. A challenging and relaxing puzzle experience, ready to test you from top to bottom.
-- [Gemstone Keeper](https://gamepopper.co.uk/) - Gemstone Keeper is a twin stick shooter where avid explorers go down into a large, dangerous and mysterious set of caves and caverns.
-- [An Octonaut Odyssey](http://anoctonautodyssey.com/) - It's a game about an amnesiac octopus lost in strange planets.
-- [Doodle Bob](https://gamejolt.com/games/doodlebob/256272) - DoodleBob is a cross between Little Computer People and perhaps Tamagotchi.
-- [Kronos](http://www.uroborostudio.com/) - An Indie fantasy Action RPG game with lots of combat, puzzles and customization.
-- [The Night Christmas Ended](http://giantgoblinstudio.com/) - Team up with the world’s biggest goblin on his quest for gold and be a total Christmas bastard.
-- [Dispersio](http://achpile.tk/) - Dispersio is a retro-styled action platformer. As you progress through the game, you will have to use and combine special abilities.
-- [The Away Team](https://awayteam.space/) - In this interactive sci-fi adventure novel, you are the AI pilot of Earth's last interstellar ship, tasked with finding a home for your crew.
-- [Crea](http://www.playcrea.com/) - Progress with every slain monster, learn skills through talents, craft items, and explore procedurally-generated worlds in this sandbox RPG!
-- [Turnover](http://www.longdivisiondev.com/) - In a dystopian future, a powerful corporation hires a private security firm to execute a violent takeover of a competitor's HQ.
-- [inSynch](http://www.themgames.net/insynch/) - An art-music-arcade game, inSynch is handcrafted and animated in stop motion.
-- [Pseuthe](https://github.com/fallahn/pseuthe) - Pseuthe (pronounced 'soothe') is an abstract audio / visual experience, with casual gameplay elements.
-- [Pioneers](http://www.pioneersgame.com/) - Pioneers is a turn-based exploration/adventure RPG.
-- [Maze](https://play.google.com/store/apps/details?id=com.minimalstudio.maze) - Dare through the creepy corridors of the mazes, but keep your guard up.
-- [Postmortem](http://postmortemgame.com/) - Postmortem: One Must Die - Narrative-adventure playing an Agent of Death who must take ONE life that could change the fate of a conflict-torn Nation!
-- [Zloxx II](http://www.bromeon.ch/games/zloxx/index.html) - Zloxx II is a 2D Jump'n'Run in which you control a little character called Zloxx.
-- [Moonman](http://moonman.io/) - Moonman is a procedurally-generated adventure game!
-- [Re:creation](https://eliasdaler.github.io/re-creation/) - Re:creation is a top-down action adventure game
-- [Rising Reign](http://risingreigngame.com/) - Rising Reign is a high fantasy role-playing game with rogue-like elements. Most content is procedurally generated during world construction.
-- [Takrog](https://steamcommunity.com/sharedfiles/filedetails/?id=884894845) - Takrog is a tactical RPG with a smart procedural generation of the world, quests, and characters. Every game is different from the other.
-- [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
-- [Rickety Racquet](http://www.ricketyracquet.de/) - Puzzle game.
-- [SpaceGO](https://github.com/Fromont-Sam/SpaceGO) - A small space shooter game using C++ and SFML.
-- [Castle Clamber](https://store.steampowered.com/app/770050/Castle_Clamber/) - 
-Castle Clamber is an arcade inspired action platformer for one or two players, either locally or over a network.
-- [Exodus](http://www.exodus.galhmac-game-studio.com/) - Exodus immerge yourself into a strange and fascinating world, where nature seems to predominate over everything else.
-- [Racod's Lair](https://github.com/cgloeckner/racods-lair) - A coop dungeon crawler.
-- [Hedgehogs Can Fly](https://github.com/yyamDev/ballfling) - 2D physics platformer game.
-- [ReJewel](https://github.com/Redee/ReJewel) - Tetris like game.
-- [sfml-snake](https://github.com/ParadoxZero/sfml-snake) - Snake game in C++.
-- [Conway-s-Game-Of-Life](https://github.com/Hopson97/Conway-s-Game-Of-Life) - Game of life, in C++.
-- [SFML2-Game](https://github.com/JuDelCo/SFML2-Game) - SFML2 - Random Games.
-- [crsfml-examples](https://github.com/oprypin/crsfml) - Simple games made with CrSFML.
+- [IDEs](#ides)
+- [Applications written with SFML](#applications-written-with-sfml)
+  - [Games](#games)
+    - [Open Source](#opensource)
+    - [Proprietary](#proprietary)
+  - [Other](#other)
 
 ## Engines
 
@@ -74,12 +42,14 @@ Castle Clamber is an arcade inspired action platformer for one or two players, e
 - [LTBL2](https://github.com/222464/LTBL2) - A 2D dynamic lighting system with accurate soft shadows.
 - [SFGUI](https://github.com/TankOs/SFGUI) - Simple and Fast Graphical User Interface
 - [SFNUL](https://github.com/binary1248/SFNUL) - Simple and Fast Network Utility Library.
-- [TGUI](https://github.com/texus/TGUI) - Easy to use cross-platform c++ GUI library for SFML. 
+- [TGUI](https://github.com/texus/TGUI) - Easy to use cross-platform c++ GUI library for SFML.
 - [Thor](https://github.com/Bromeon/Thor) - Extension with various game programming features, like particles, animations, vector operations.
 - [SFML-utils](https://github.com/Krozark/SFML-utils) - Some adds to build games.
 - [SelbaWard](https://github.com/Hapaxia/SelbaWard) - A collection of drawables.
 
 ## Bindings
+
+*List of all the known SFML bindings*
 
 - [C](https://www.sfml-dev.org/download/csfml)
 - [.Net (C#, VB.Net etc.)](https://www.sfml-dev.org/download/sfml.net)
@@ -104,10 +74,21 @@ Castle Clamber is an arcade inspired action platformer for one or two players, e
 - [Ruby](http://www.groogy.se/mainsite/rbsfml/)
 - [Rust](https://github.com/jeremyletang/rust-sfml)
 
+## Utilities
+
+*Non-Game specific Library bundles, that provide reuseable functions*
+
+- [tmxlite](https://github.com/fallahn/tmxlite) -  Lightweight C++14 parser for Tiled tmx files.
+
 ## Tools
 
+*Useful tools*
+
 - [FM Composer](http://fmcomposer.org/) - FM Composer. It's a software allowing the user to design their own sound using FM synthesis and create a song with them.
-## Resources
+
+# Resources
+
+## Websites
 
 - [www.sfml-dev.org](https://www.sfml-dev.org/index.php) - Official site.
   - The [official tutorials](https://www.sfml-dev.org/tutorials/)
@@ -117,28 +98,92 @@ Castle Clamber is an arcade inspired action platformer for one or two players, e
 - [www.sfmlprojects.org](https://sfmlprojects.org/) - Discover and talk about projects built with or around the Simple and Fast Multimedia Library!
 - [www.reddit.com/r/sfml](https://www.reddit.com/r/sfml/) - Reddit topic.
 
-
-
-### Books
+## Books
 
 - [SFML Game Development](https://github.com/SFML/SFML-Game-Development-Book)
 - [SFML Essentials](https://www.packtpub.com/game-development/sfml-essentials)
 - [SFML Blueprints](https://github.com/Krozark/SFML-book)
 - [SFML Game Development By Example](https://www.packtpub.com/game-development/sfml-game-development-example)
 
-## Tutorials
+# Tutorials
 
-### Video
+*Blogs and tutorials*
 
-- [SFML 2.1 Tutorial Series](https://www.youtube.com/watch?v=FLpD54gx_5w&list=PLRtjMdoYXLf776y4K432eL_qPw4na_py3) - 52 tutorials
+## Video
 
-### Text
+- [SFML 2.1 Tutorial Series](https://www.youtube.com/watch?v=FLpD54gx_5w&list=PLRtjMdoYXLf776y4K432eL_qPw4na_py3) - 52 tutorials.
 
-- [Citybuilder](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - Creating a City Building Game with SFML
+## Text
 
-## Contribute
+- [Citybuilder](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - Creating a City Building Game with SFML.
 
-Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTION.md) first.
+# IDEs
+
+*Integrated Development Enviroments and text editor plugins*
+
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
+- [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
+- [Spacemacs](https://github.com/syl20bnr/spacemacs) -  A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
+- [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.
+- [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe.
+- [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+- [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support.
+
+# Applications written with SFML
+
+## Games
+
+### Open Source
+
+*Games with Open Source licenses*
+
+- [Cendric](https://github.com/tizian/Cendric2) - Cendric is part top-down RPG and part puzzle platformer.
+- [Pseuthe](https://github.com/fallahn/pseuthe) - Pseuthe (pronounced 'soothe') is an abstract audio / visual experience, with casual gameplay elements.
+- [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
+- [Rickety Racquet](http://www.ricketyracquet.de/) - Puzzle game.
+- [SpaceGO](https://github.com/Fromont-Sam/SpaceGO) - A small space shooter game using C++ and SFML.
+- [Hedgehogs Can Fly](https://github.com/yyamDev/ballfling) - 2D physics platformer game.
+- [ReJewel](https://github.com/Redee/ReJewel) - Tetris like game.
+- [sfml-snake](https://github.com/ParadoxZero/sfml-snake) - Snake game in C++.
+- [Conway-s-Game-Of-Life](https://github.com/Hopson97/Conway-s-Game-Of-Life) - Game of life, in C++.
+- [SFML2-Game](https://github.com/JuDelCo/SFML2-Game) - SFML2 - Random Games.
+- [crsfml-examples](https://github.com/oprypin/crsfml) - Simple games made with CrSFML.
+
+### Proprietary
+
+*Proprietary games*
+
+- [Remnants of Naezith](http://naezith.com/) - Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook precision platformer.
+- [The Man in the Cape: Special Edition](http://www.longdivisiondev.com/) - The Man in the Cape is captured and left for dead in Mr. Granderson’s superhero elimination dungeon.
+- [Zeran's Folly](http://zeransfolly.com/) - Story-driven action-adventure with fluid melee combat, four unique playable characters, and a twisted sense of humor.
+- [CUIT](http://www.cir-cuit.com/) - In CUIT, it is only you and your mind. A challenging and relaxing puzzle experience, ready to test you from top to bottom.
+- [Gemstone Keeper](https://gamepopper.co.uk/) - Gemstone Keeper is a twin stick shooter where avid explorers go down into a large, dangerous and mysterious set of caves and caverns.
+- [An Octonaut Odyssey](http://anoctonautodyssey.com/) - It's a game about an amnesiac octopus lost in strange planets.
+- [Doodle Bob](https://gamejolt.com/games/doodlebob/256272) - DoodleBob is a cross between Little Computer People and perhaps Tamagotchi.
+- [Kronos](http://www.uroborostudio.com/) - An Indie fantasy Action RPG game with lots of combat, puzzles and customization.
+- [The Night Christmas Ended](http://giantgoblinstudio.com/) - Team up with the world’s biggest goblin on his quest for gold and be a total Christmas bastard.
+- [Dispersio](http://achpile.tk/) - Dispersio is a retro-styled action platformer. As you progress through the game, you will have to use and combine special abilities.
+- [The Away Team](https://awayteam.space/) - In this interactive sci-fi adventure novel, you are the AI pilot of Earth's last interstellar ship, tasked with finding a home for your crew.
+- [Crea](http://www.playcrea.com/) - Progress with every slain monster, learn skills through talents, craft items, and explore procedurally-generated worlds in this sandbox RPG!
+- [Turnover](http://www.longdivisiondev.com/) - In a dystopian future, a powerful corporation hires a private security firm to execute a violent takeover of a competitor's HQ.
+- [inSynch](http://www.themgames.net/insynch/) - An art-music-arcade game, inSynch is handcrafted and animated in stop motion.
+- [Pioneers](http://www.pioneersgame.com/) - Pioneers is a turn-based exploration/adventure RPG.
+- [Maze](https://play.google.com/store/apps/details?id=com.minimalstudio.maze) - Dare through the creepy corridors of the mazes, but keep your guard up.
+- [Postmortem](http://postmortemgame.com/) - Postmortem: One Must Die - Narrative-adventure playing an Agent of Death who must take ONE life that could change the fate of a conflict-torn Nation!
+- [Zloxx II](http://www.bromeon.ch/games/zloxx/index.html) - Zloxx II is a 2D Jump'n'Run in which you control a little character called Zloxx.
+- [Moonman](http://moonman.io/) - Moonman is a procedurally-generated adventure game!
+- [Re:creation](https://eliasdaler.github.io/re-creation/) - Re:creation is a top-down action adventure game
+- [Rising Reign](http://risingreigngame.com/) - Rising Reign is a high fantasy role-playing game with rogue-like elements. Most content is procedurally generated during world construction.
+- [Takrog](https://steamcommunity.com/sharedfiles/filedetails/?id=884894845) - Takrog is a tactical RPG with a smart procedural generation of the world, quests, and characters. Every game is different from the other.
+- [Castle Clamber](https://store.steampowered.com/app/770050/Castle_Clamber/) - Castle Clamber is an arcade inspired action platformer for one or two players, either locally or over a network.
+- [Exodus](http://www.exodus.galhmac-game-studio.com/) - Exodus immerge yourself into a strange and fascinating world, where nature seems to predominate over everything else.
+- [Racod's Lair](https://github.com/cgloeckner/racods-lair) - A coop dungeon crawler.
+
+## Other
+
+*Other types of application*
+
+- [FM Composer](https://github.com/stephanedamo/fmcomposer) - Music and sound creation tool, featuring an FM synthesizer and a tracker-like interface.
 
 ## License
 
