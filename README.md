@@ -35,6 +35,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 - [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) - Very, very simple and barebones framework for games and that.
 - [ObEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML!
+- [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) - 2D/3D C++ game framework written for use with SFML.
+
 
 ## Components & Libraries
 
