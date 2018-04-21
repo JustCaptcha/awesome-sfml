@@ -24,7 +24,6 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [Tutorials](#tutorials)
   - [Video](#video)
   - [Text](#text)
-- [IDEs](#ides)
 - [Applications written with SFML](#applications-written-with-sfml)
   - [Games](#games)
     - [Open Source](#opensource)
@@ -36,7 +35,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) - Very, very simple and barebones framework for games and that.
 - [ObEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML!
 - [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) - 2D/3D C++ game framework written for use with SFML.
-
+- [Nero Game Engine](https://github.com/sk-landry/Nero-Game-Engine) - Game Engine made on SFML and Box2D
 
 ## Components & Libraries
 
@@ -102,6 +101,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Books
 
+- [Mastering SFML Game Development](https://www.packtpub.com/game-development/mastering-sfml-game-development)
 - [SFML Game Development](https://github.com/SFML/SFML-Game-Development-Book)
 - [SFML Essentials](https://www.packtpub.com/game-development/sfml-essentials)
 - [SFML Blueprints](https://github.com/Krozark/SFML-book)
@@ -113,23 +113,12 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Video
 
+- [Building Games with SFML](https://www.packtpub.com/game-development/building-games-sfml-video) - A step-by-step introduction to SFML to help you build enjoyable, cross-platform games
 - [SFML 2.1 Tutorial Series](https://www.youtube.com/watch?v=FLpD54gx_5w&list=PLRtjMdoYXLf776y4K432eL_qPw4na_py3) - 52 tutorials.
 
 ## Text
 
 - [Citybuilder](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - Creating a City Building Game with SFML.
-
-# IDEs
-
-*Integrated Development Enviroments and text editor plugins*
-
-- [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
-- [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
-- [Spacemacs](https://github.com/syl20bnr/spacemacs) -  A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
-- [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.
-- [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe.
-- [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
-- [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support.
 
 # Applications written with SFML
 
