@@ -133,6 +133,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
 - [Rickety Racquet](http://www.ricketyracquet.de/) - Puzzle game.
 - [SpaceGO](https://github.com/Fromont-Sam/SpaceGO) - A small space shooter game using C++ and SFML.
+- [HopsonCraft](https://github.com/Hopson97/HopsonCraft) - A minecraft clone written using C++, SFML, OpenGL and GLEW.
 - [Hedgehogs Can Fly](https://github.com/yyamDev/ballfling) - 2D physics platformer game.
 - [ReJewel](https://github.com/Redee/ReJewel) - Tetris like game.
 - [sfml-snake](https://github.com/ParadoxZero/sfml-snake) - Snake game in C++.
