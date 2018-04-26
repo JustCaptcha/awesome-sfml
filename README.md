@@ -48,6 +48,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [Thor](https://github.com/Bromeon/Thor) - Extension with various game programming features, like particles, animations, vector operations.
 - [SFML-utils](https://github.com/Krozark/SFML-utils) - Some adds to build games.
 - [SelbaWard](https://github.com/Hapaxia/SelbaWard) - A collection of drawables.
+- [SFMLSoundSystem](https://github.com/Hapaxia/SfmlSoundSystem) - Sound Control System for use with SFML.
+
 
 ## Bindings
 
