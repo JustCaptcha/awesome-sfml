@@ -13,30 +13,24 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ### Contents
 
 - [Awesome SFML](https://github.com/JustCaptcha/awesome-sfml)
+- [Libraries and Resources](#libraries-and-resources)
+    - [Components & Libraries](#components-libraries)
+    - [Bindings](#bindings)
+    - [Utilities](#utilities)
+    - [Tools](#tools)
+    - [Websites](#websites)
+    - [Books](#books)
+    - [Tutorials](#tutorials)
+      - [Video](#video)
+      - [Text](#text)
+- [Projects](#projects)
   - [Engines](#engines)
-  - [Components & Libraries](#components-libraries)
-  - [Bindings](#bindings)
-- [Utilities](#utilities)
-- [Tools](#tools)
-- [Resources](#resources)
-  - [Websites](#websites)
-  - [Books](#books)
-- [Tutorials](#tutorials)
-  - [Video](#video)
-  - [Text](#text)
-- [Applications written with SFML](#applications-written-with-sfml)
   - [Games](#games)
     - [Open Source](#opensource)
     - [Proprietary](#proprietary)
   - [Other](#other)
 
-## Engines
-
-- [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) - Very, very simple and barebones framework for games and that.
-- [ObEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML!
-- [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) - 2D/3D C++ game framework written for use with SFML.
-- [Nero Game Engine](https://github.com/sk-landry/Nero-Game-Engine) - Game Engine made on SFML and Box2D.
-- [xygineXT](https://github.com/fallahn/xygine) - 2D engine / framework built around SFML.
+# Libraries and Resources
 
 ## Components & Libraries
 
@@ -49,7 +43,6 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [SFML-utils](https://github.com/Krozark/SFML-utils) - Some adds to build games.
 - [SelbaWard](https://github.com/Hapaxia/SelbaWard) - A collection of drawables.
 - [SFMLSoundSystem](https://github.com/Hapaxia/SfmlSoundSystem) - Sound Control System for use with SFML.
-
 
 ## Bindings
 
@@ -90,8 +83,6 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 - [FM Composer](http://fmcomposer.org/) - FM Composer. It's a software allowing the user to design their own sound using FM synthesis and create a song with them.
 
-# Resources
-
 ## Websites
 
 - [www.sfml-dev.org](https://www.sfml-dev.org/index.php) - Official site.
@@ -110,20 +101,28 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [SFML Blueprints](https://github.com/Krozark/SFML-book)
 - [SFML Game Development By Example](https://www.packtpub.com/game-development/sfml-game-development-example)
 
-# Tutorials
+## Tutorials
 
 *Blogs and tutorials*
 
-## Video
+### Videos
 
 - [Building Games with SFML](https://www.packtpub.com/game-development/building-games-sfml-video) - A step-by-step introduction to SFML to help you build enjoyable, cross-platform games
 - [SFML 2.1 Tutorial Series](https://www.youtube.com/watch?v=FLpD54gx_5w&list=PLRtjMdoYXLf776y4K432eL_qPw4na_py3) - 52 tutorials.
 
-## Text
+### Text
 
 - [Citybuilder](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - Creating a City Building Game with SFML.
 
-# Applications written with SFML
+# Projects
+
+## Engines
+
+- [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) - Very, very simple and barebones framework for games and that.
+- [ObEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML!
+- [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) - 2D/3D C++ game framework written for use with SFML.
+- [Nero Game Engine](https://github.com/sk-landry/Nero-Game-Engine) - Game Engine made on SFML and Box2D.
+- [xygineXT](https://github.com/fallahn/xygine) - 2D engine / framework built around SFML.
 
 ## Games
 
