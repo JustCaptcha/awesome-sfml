@@ -43,6 +43,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [SFML-utils](https://github.com/Krozark/SFML-utils) - Some adds to build games.
 - [SelbaWard](https://github.com/Hapaxia/SelbaWard) - A collection of drawables.
 - [SFMLSoundSystem](https://github.com/Hapaxia/SfmlSoundSystem) - Sound Control System for use with SFML.
+- [Swoosh](https://github.com/TheMaverickProgrammer/Swoosh) - SFML Activity and Segue Mini Library 
 
 ## Bindings
 
