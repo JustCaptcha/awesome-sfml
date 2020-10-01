@@ -43,7 +43,9 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [SFML-utils](https://github.com/Krozark/SFML-utils) - Some adds to build games.
 - [SelbaWard](https://github.com/Hapaxia/SelbaWard) - A collection of drawables.
 - [SFMLSoundSystem](https://github.com/Hapaxia/SfmlSoundSystem) - Sound Control System for use with SFML.
-- [Swoosh](https://github.com/TheMaverickProgrammer/Swoosh) - SFML Activity and Segue Mini Library 
+- [Swoosh](https://github.com/TheMaverickProgrammer/Swoosh) - SFML Activity and Segue Mini Library
+- [RichText](https://github.com/skyrpex/RichText) - Rich text class for SFML2. Allows the user to draw lines of text with different styles and colors.
+- [Candle](https://github.com/MiguelMJ/Candle) - 2D lighting for SFML
 
 ## Bindings
 
@@ -63,13 +65,13 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [Haskell](https://github.com/SFML-haskell/SFML)
 - [Java](https://jsfml.sfmlprojects.org/)
 - [Julia](https://github.com/zyedidia/SFML.jl)
-- [Nim](https://github.com/BlaXpirit/nim-csfml)
+- [Nim](https://github.com/oprypin/nim-csfml)
 - OCaml
   - [Ocsfml](https://github.com/JoeDralliam/Ocsfml)
-  - [ocaml-sfml](http://ocaml-sfml.forge.ocamlcore.org/)
+  - [ocaml-sfml](https://github.com/fccm/ocaml-sfml)
 - [Pascal](https://github.com/CWBudde/PasSFML)
-- [Python](http://www.python-sfml.org/)
-- [Ruby](http://www.groogy.se/mainsite/rbsfml/)
+- [Python](https://github.com/intjelic/python-sfml)
+- [Ruby](https://github.com/Groogy/rbSFML)
 - [Rust](https://github.com/jeremyletang/rust-sfml)
 
 ## Utilities
@@ -86,7 +88,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Websites
 
-- [www.sfml-dev.org](https://www.sfml-dev.org/index.php) - Official site.
+- [www.sfml-dev.org](https://www.sfml-dev.org/) - Official site.
   - The [official tutorials](https://www.sfml-dev.org/tutorials/)
   - The [online API documentation](https://www.sfml-dev.org/documentation/)
   - The [community wiki](https://github.com/SFML/SFML/wiki/)
@@ -96,11 +98,11 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ## Books
 
-- [Mastering SFML Game Development](https://www.packtpub.com/game-development/mastering-sfml-game-development)
+- [Mastering SFML Game Development](https://github.com/PacktPublishing/Mastering-SFML-Game-Development)
 - [SFML Game Development](https://github.com/SFML/SFML-Game-Development-Book)
-- [SFML Essentials](https://www.packtpub.com/game-development/sfml-essentials)
+- [SFML Essentials](https://www.packtpub.com/product/sfml-essentials/9781784397326)
 - [SFML Blueprints](https://github.com/Krozark/SFML-book)
-- [SFML Game Development By Example](https://www.packtpub.com/game-development/sfml-game-development-example)
+- [SFML Game Development By Example](https://www.packtpub.com/product/sfml-game-development-by-example/9781785287343)
 
 ## Tutorials
 
@@ -108,12 +110,12 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 ### Videos
 
-- [Building Games with SFML](https://www.packtpub.com/game-development/building-games-sfml-video) - A step-by-step introduction to SFML to help you build enjoyable, cross-platform games
+- [Building Games with SFML](https://github.com/PacktPublishing/Building-Games-with-SFML) - A step-by-step introduction to SFML to help you build enjoyable, cross-platform games
 - [SFML 2.1 Tutorial Series](https://www.youtube.com/watch?v=FLpD54gx_5w&list=PLRtjMdoYXLf776y4K432eL_qPw4na_py3) - 52 tutorials.
 
 ### Text
 
-- [Citybuilder](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - Creating a City Building Game with SFML.
+- [Citybuilder](https://www.binpress.com/creating-city-building-game-with-sfml/) - Creating a City Building Game with SFML.
 
 # Projects
 
@@ -122,8 +124,9 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) - Very, very simple and barebones framework for games and that.
 - [ObEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML!
 - [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) - 2D/3D C++ game framework written for use with SFML.
-- [Nero Game Engine](https://github.com/sk-landry/Nero-Game-Engine) - Game Engine made on SFML and Box2D.
+- [Nero Game Engine](https://github.com/NeroGames/Nero-Game-Engine) - Advanced SFML Game Engine, Designed to be Simple and Intuitive
 - [xygineXT](https://github.com/fallahn/xygine) - 2D engine / framework built around SFML.
+- [is::Engine](https://github.com/Is-Daouda/is-Engine) - Game Engine developed with the SFML library to create games on Android and PC
 
 ## Games
 
@@ -140,39 +143,41 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [Hedgehogs Can Fly](https://github.com/yyamDev/ballfling) - 2D physics platformer game.
 - [ReJewel](https://github.com/Redee/ReJewel) - Tetris like game.
 - [sfml-snake](https://github.com/ParadoxZero/sfml-snake) - Snake game in C++.
-- [Conway-s-Game-Of-Life](https://github.com/Hopson97/Conway-s-Game-Of-Life) - Game of life, in C++.
 - [SFML2-Game](https://github.com/JuDelCo/SFML2-Game) - SFML2 - Random Games.
-- [crsfml-examples](https://github.com/oprypin/crsfml) - Simple games made with CrSFML.
+- [Racod's Lair](https://github.com/cgloeckner/racods-lair) - 2D Rogue-inspired Action Dungeoncrawler
+- [Deerportal](https://github.com/deerportal/deerportal) - Full of the diamonds 💎 board game driven by a 🦌 Deer 🦌 god and classical elements 🔥 💦 💨 🌍
 
 ### Proprietary
 
 *Proprietary games*
 
-- [Remnants of Naezith](http://naezith.com/) - Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook precision platformer.
-- [The Man in the Cape: Special Edition](http://www.longdivisiondev.com/) - The Man in the Cape is captured and left for dead in Mr. Granderson’s superhero elimination dungeon.
-- [Zeran's Folly](http://zeransfolly.com/) - Story-driven action-adventure with fluid melee combat, four unique playable characters, and a twisted sense of humor.
-- [CUIT](http://www.cir-cuit.com/) - In CUIT, it is only you and your mind. A challenging and relaxing puzzle experience, ready to test you from top to bottom.
-- [Gemstone Keeper](https://gamepopper.co.uk/) - Gemstone Keeper is a twin stick shooter where avid explorers go down into a large, dangerous and mysterious set of caves and caverns.
+- [Remnants of Naezith](https://naezith.com/) - Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook precision platformer.
+- [The Man in the Cape: Special Edition](https://www.longdivisiondev.com/) - The Man in the Cape is captured and left for dead in Mr. Granderson’s superhero elimination dungeon.
+- [Zeran's Folly](http://myroidtypecomics.com/zeransfolly/) - Story-driven action-adventure with fluid melee combat, four unique playable characters, and a twisted sense of humor.
+- [CUIT](https://store.steampowered.com/app/614890/Cuit/) - In CUIT, it is only you and your mind. A challenging and relaxing puzzle experience, ready to test you from top to bottom.
+- [Gemstone Keeper](http://gemstonekeeper.co.uk/) - Gemstone Keeper is a twin stick shooter where avid explorers go down into a large, dangerous and mysterious set of caves and caverns.
 - [An Octonaut Odyssey](http://anoctonautodyssey.com/) - It's a game about an amnesiac octopus lost in strange planets.
-- [Doodle Bob](https://gamejolt.com/games/doodlebob/256272) - DoodleBob is a cross between Little Computer People and perhaps Tamagotchi.
-- [Kronos](http://www.uroborostudio.com/) - An Indie fantasy Action RPG game with lots of combat, puzzles and customization.
-- [The Night Christmas Ended](http://giantgoblinstudio.com/) - Team up with the world’s biggest goblin on his quest for gold and be a total Christmas bastard.
-- [Dispersio](http://achpile.tk/) - Dispersio is a retro-styled action platformer. As you progress through the game, you will have to use and combine special abilities.
+- [Doodle Bob](https://fallahn.itch.io/doodlebob) - DoodleBob is a cross between Little Computer People and perhaps Tamagotchi.
+- [Kronos](https://www.uroborostudio.com/) - An Indie fantasy Action RPG game with lots of combat, puzzles and customization.
+- [The Night Christmas Ended](https://store.steampowered.com/app/558440/The_Night_Christmas_Ended/) - Team up with the world’s biggest goblin on his quest for gold and be a total Christmas bastard.
+- [Dispersio](http://achpile.tk/dispersio.php) - Dispersio is a retro-styled action platformer. As you progress through the game, you will have to use and combine special abilities.
+- [AchBall](http://achpile.tk/achball.php) - AchBall is a casual arcade game written in C++ with SFML
 - [The Away Team](https://awayteam.space/) - In this interactive sci-fi adventure novel, you are the AI pilot of Earth's last interstellar ship, tasked with finding a home for your crew.
-- [Crea](http://www.playcrea.com/) - Progress with every slain monster, learn skills through talents, craft items, and explore procedurally-generated worlds in this sandbox RPG!
-- [Turnover](http://www.longdivisiondev.com/) - In a dystopian future, a powerful corporation hires a private security firm to execute a violent takeover of a competitor's HQ.
+- [Crea](https://www.playcrea.com/) - Progress with every slain monster, learn skills through talents, craft items, and explore procedurally-generated worlds in this sandbox RPG!
+- [Turnover](https://www.longdivisiondev.com/) - In a dystopian future, a powerful corporation hires a private security firm to execute a violent takeover of a competitor's HQ.
 - [inSynch](http://www.themgames.net/insynch/) - An art-music-arcade game, inSynch is handcrafted and animated in stop motion.
 - [Pioneers](http://www.pioneersgame.com/) - Pioneers is a turn-based exploration/adventure RPG.
-- [Maze](https://play.google.com/store/apps/details?id=com.minimalstudio.maze) - Dare through the creepy corridors of the mazes, but keep your guard up.
-- [Postmortem](http://postmortemgame.com/) - Postmortem: One Must Die - Narrative-adventure playing an Agent of Death who must take ONE life that could change the fate of a conflict-torn Nation!
+- [Postmortem](https://unboundcreations.com/games/#postmortem) - Postmortem: One Must Die - Narrative-adventure playing an Agent of Death who must take ONE life that could change the fate of a conflict-torn Nation!
 - [Zloxx II](http://www.bromeon.ch/games/zloxx/index.html) - Zloxx II is a 2D Jump'n'Run in which you control a little character called Zloxx.
-- [Moonman](http://moonman.io/) - Moonman is a procedurally-generated adventure game!
-- [Re:creation](https://eliasdaler.github.io/re-creation/) - Re:creation is a top-down action adventure game
+- [MoonQuest](https://twitter.com/playmoonquest) - A procedurally-generated adventure game! Explore unique worlds with wild forests, ice-capped mountains and ancient ruins. Talk to giant snails, seek out magical items, and forge the weapons that will help you on your journey!
 - [Rising Reign](http://risingreigngame.com/) - Rising Reign is a high fantasy role-playing game with rogue-like elements. Most content is procedurally generated during world construction.
 - [Takrog](https://steamcommunity.com/sharedfiles/filedetails/?id=884894845) - Takrog is a tactical RPG with a smart procedural generation of the world, quests, and characters. Every game is different from the other.
 - [Castle Clamber](https://store.steampowered.com/app/770050/Castle_Clamber/) - Castle Clamber is an arcade inspired action platformer for one or two players, either locally or over a network.
-- [Exodus](http://www.exodus.galhmac-game-studio.com/) - Exodus immerge yourself into a strange and fascinating world, where nature seems to predominate over everything else.
-- [Racod's Lair](https://github.com/cgloeckner/racods-lair) - A coop dungeon crawler.
+- [Exodus](http://exodus.galhmac-game-studio.com/overview/) - Exodus immerge yourself into a strange and fascinating world, where nature seems to predominate over everything else.
+- [Squadbot](https://ild-games.com/squatbot/) - Hop, leap, and bound through vibrant levels as Squatbot! Squatbot brings tight platforming to mobile devices with a unique and minimalist control scheme.
+- [This Grand Life](https://store.steampowered.com/app/695600/This_Grand_Life/) - Cruise your way through life with a silver spoon, or struggle endlessly to find employment as a convicted felon. You cannot control your past, but you can change your future. What choices will you make?
+- [Underrail](https://www.underrail.com/) - Underrail is an old school turn-based isometric indie role playing game that focuses on exploration and combat.
+- [Wing of Misadventure](https://store.steampowered.com/app/677810/Wing_of_Misadventure/) - Wing of Misadventure is the definitive Massive Multiplayer Online RPG experience created on RPG Maker, featuring a unique art style, carefully crafted loot system and fast paced combat style, making it the perfect match for hardcore and casual gamers alike!
 
 ## Other
 
