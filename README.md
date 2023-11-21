@@ -53,6 +53,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 
 - [C](https://www.sfml-dev.org/download/csfml)
 - [.Net (C#, VB.Net etc.)](https://www.sfml-dev.org/download/sfml.net)
+- [Ada](https://github.com/mgrojo/ASFML)
 - [Crystal](https://github.com/BlaXpirit/crsfml)
 - D
   - [DerelictSFML2](https://github.com/DerelictOrg/DerelictSFML2)
