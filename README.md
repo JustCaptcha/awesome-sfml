@@ -185,6 +185,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 *Other types of application*
 
 - [FM Composer](https://github.com/stephanedamo/fmcomposer) - Music and sound creation tool, featuring an FM synthesizer and a tracker-like interface.
+- [Stylish Visualizer](https://github.com/CosminPerRam/StylishVisualizer) - A sorting algorithms visualizer which features SFX, step by step control and many personalization options.
 
 ## License
 
