@@ -180,6 +180,10 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [Underrail](https://www.underrail.com/) - Underrail is an old school turn-based isometric indie role playing game that focuses on exploration and combat.
 - [Wing of Misadventure](https://store.steampowered.com/app/677810/Wing_of_Misadventure/) - Wing of Misadventure is the definitive Massive Multiplayer Online RPG experience created on RPG Maker, featuring a unique art style, carefully crafted loot system and fast paced combat style, making it the perfect match for hardcore and casual gamers alike!
 
+## Other
+
+- [Stylish Visualizer](https://github.com/CosminPerRam/StylishVisualizer) - A sorting algorithms visualizer which features SFX, step by step control and many personalization options.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
