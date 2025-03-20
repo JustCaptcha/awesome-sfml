@@ -183,6 +183,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Other
 
 - [Stylish Visualizer](https://github.com/CosminPerRam/StylishVisualizer) - A sorting algorithms visualizer which features SFX, step by step control and many personalization options.
+- [Da Music Player](https://github.com/Drimiteros/Da-music-player) - A simple, retro, music player that uses SFML for handling the UI and Sound.
 
 ## License
 
