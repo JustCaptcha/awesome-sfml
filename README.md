@@ -28,6 +28,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
   - [Games](#games)
     - [Open Source](#opensource)
     - [Proprietary](#proprietary)
+  - [Media](#media)
+     - [Open Source](#opensource)
   - [Other](#other)
 
 # Libraries and Resources
@@ -180,10 +182,17 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 - [Underrail](https://www.underrail.com/) - Underrail is an old school turn-based isometric indie role playing game that focuses on exploration and combat.
 - [Wing of Misadventure](https://store.steampowered.com/app/677810/Wing_of_Misadventure/) - Wing of Misadventure is the definitive Massive Multiplayer Online RPG experience created on RPG Maker, featuring a unique art style, carefully crafted loot system and fast paced combat style, making it the perfect match for hardcore and casual gamers alike!
 
+## Media
+
+### Open Source
+
+*Media with Open Source licenses*
+
+- [Da Music Player](https://github.com/Drimiteros/Da-music-player) - A simple, retro, music player that uses SFML for handling the UI and Sound.
+
 ## Other
 
 - [Stylish Visualizer](https://github.com/CosminPerRam/StylishVisualizer) - A sorting algorithms visualizer which features SFX, step by step control and many personalization options.
-- [Da Music Player](https://github.com/Drimiteros/Da-music-player) - A simple, retro, music player that uses SFML for handling the UI and Sound.
 
 ## License
 
