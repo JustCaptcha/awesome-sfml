@@ -125,6 +125,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](CONTRIBUTIO
 ## Engines
 
 - [SFML-Game-Framework](https://github.com/Hopson97/SFML-Game-Framework) - Very, very simple and barebones framework for games and that.
+- [SFML3-Game-Template](https://github.com/nantr0nic/sfml3-game-template) - A modern, data-oriented C++23 starter template for game development using SFML 3.
 - [ObEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML!
 - [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) - 2D/3D C++ game framework written for use with SFML.
 - [Nero Game Engine](https://github.com/NeroGames/Nero-Game-Engine) - Advanced SFML Game Engine, Designed to be Simple and Intuitive
